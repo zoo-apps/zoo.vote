@@ -1,4 +1,4 @@
-import { legacy } from '@decentdao/decent-contracts';
+import { legacy } from '@luxdao/contracts';
 import { SafeMultisigTransactionListResponse } from '@safe-global/api-kit';
 import { useCallback } from 'react';
 import { Address, getAddress, getContract, isAddress } from 'viem';

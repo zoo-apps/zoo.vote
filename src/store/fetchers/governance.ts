@@ -1,4 +1,4 @@
-import { legacy, abis } from '@decentdao/decent-contracts';
+import { legacy, abis } from '@luxdao/contracts';
 import { useCallback, useMemo } from 'react';
 import { useTranslation } from 'react-i18next';
 import {

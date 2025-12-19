@@ -1,4 +1,4 @@
-import { legacy } from '@decentdao/decent-contracts';
+import { legacy } from '@luxdao/contracts';
 import { useCallback } from 'react';
 import { Address, getContract, GetContractReturnType, PublicClient, zeroAddress } from 'viem';
 import GnosisSafeL2Abi from '../../assets/abi/GnosisSafeL2';

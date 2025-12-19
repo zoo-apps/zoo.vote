@@ -1,5 +1,5 @@
 import { Button, Flex, Text } from '@chakra-ui/react';
-import { abis, legacy } from '@decentdao/decent-contracts';
+import { abis, legacy } from '@luxdao/contracts';
 import { Formik, Form, useFormikContext } from 'formik';
 import { useState } from 'react';
 import { useTranslation } from 'react-i18next';

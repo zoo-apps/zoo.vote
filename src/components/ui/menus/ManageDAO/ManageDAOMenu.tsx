@@ -1,5 +1,5 @@
 import { Icon, IconButton } from '@chakra-ui/react';
-import { legacy } from '@decentdao/decent-contracts';
+import { legacy } from '@luxdao/contracts';
 import { GearFine } from '@phosphor-icons/react';
 import { useMemo } from 'react';
 import { getContract } from 'viem';

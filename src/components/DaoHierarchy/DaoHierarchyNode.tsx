@@ -1,5 +1,5 @@
 import { Center, Flex, Icon, Link, Text } from '@chakra-ui/react';
-import { legacy } from '@decentdao/decent-contracts';
+import { legacy } from '@luxdao/contracts';
 import { ArrowElbowDownRight } from '@phosphor-icons/react';
 import { useCallback, useEffect, useState } from 'react';
 import { useTranslation } from 'react-i18next';

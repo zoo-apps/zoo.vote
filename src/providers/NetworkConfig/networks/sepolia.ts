@@ -1,4 +1,4 @@
-import { legacy, addresses } from '@decentdao/decent-contracts';
+import { legacy, addresses } from '@luxdao/contracts';
 import {
   getCompatibilityFallbackHandlerDeployment,
   getMultiSendCallOnlyDeployment,

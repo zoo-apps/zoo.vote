@@ -1,4 +1,4 @@
-import { legacy } from '@decentdao/decent-contracts';
+import { legacy } from '@luxdao/contracts';
 import { hatIdToTreeId } from '@hatsprotocol/sdk-v1-core';
 import { useCallback } from 'react';
 import { Address, GetContractEventsReturnType, getContract } from 'viem';

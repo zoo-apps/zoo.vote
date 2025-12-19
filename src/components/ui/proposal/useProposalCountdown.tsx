@@ -1,4 +1,4 @@
-import { legacy } from '@decentdao/decent-contracts';
+import { legacy } from '@luxdao/contracts';
 import { useCallback, useEffect, useRef, useState } from 'react';
 import { getContract } from 'viem';
 import { logError } from '../../../helpers/errorLogging';

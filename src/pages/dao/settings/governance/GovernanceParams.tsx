@@ -1,5 +1,5 @@
 import { Box, Flex, InputGroup, InputRightElement } from '@chakra-ui/react';
-import { legacy } from '@decentdao/decent-contracts';
+import { legacy } from '@luxdao/contracts';
 import { useFormikContext } from 'formik';
 import { useCallback, useEffect, useState } from 'react';
 import { useTranslation } from 'react-i18next';

@@ -1,4 +1,4 @@
-import { legacy } from '@decentdao/decent-contracts';
+import { legacy } from '@luxdao/contracts';
 import { useEffect } from 'react';
 import { Address, getContract } from 'viem';
 import useNetworkPublicClient from '../../hooks/useNetworkPublicClient';

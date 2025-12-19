@@ -1,4 +1,4 @@
-import { legacy } from '@decentdao/decent-contracts';
+import { legacy } from '@luxdao/contracts';
 import { useCallback, useEffect } from 'react';
 import { Address, getContract, Hex } from 'viem';
 import { useAccount } from 'wagmi';

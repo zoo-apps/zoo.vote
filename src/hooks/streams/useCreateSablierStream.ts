@@ -1,4 +1,4 @@
-import { legacy } from '@decentdao/decent-contracts';
+import { legacy } from '@luxdao/contracts';
 import groupBy from 'lodash.groupby';
 import { useCallback } from 'react';
 import { Address, Hex, encodeFunctionData, erc20Abi, getAddress, zeroAddress } from 'viem';
