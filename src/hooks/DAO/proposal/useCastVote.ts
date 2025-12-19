@@ -1,4 +1,4 @@
-import { legacy } from '@luxdao/contracts';
+import { legacy } from '@decentdao/decent-contracts';
 import { toLightSmartAccount } from 'permissionless/accounts';
 import { useCallback, useEffect, useState } from 'react';
 import { useTranslation } from 'react-i18next';

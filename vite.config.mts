@@ -26,6 +26,7 @@ export default defineConfig(({ mode }) => {
   }
   return {
     plugins,
+    base: process.env.GITHUB_ACTIONS ? '/zoo.vote/' : '/',
     server: {
       port: 3004,
     },

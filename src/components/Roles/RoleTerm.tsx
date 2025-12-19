@@ -1,5 +1,5 @@
 import { Box, Button, Flex, Icon, Text } from '@chakra-ui/react';
-import { legacy } from '@luxdao/contracts';
+import { legacy } from '@decentdao/decent-contracts';
 import { ArrowRight, Calendar, ClockCountdown, Copy } from '@phosphor-icons/react';
 import { format } from 'date-fns';
 import { useCallback, useMemo } from 'react';

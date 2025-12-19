@@ -1,4 +1,4 @@
-import { legacy } from '@luxdao/contracts';
+import { legacy } from '@decentdao/decent-contracts';
 import {
   Address,
   encodeAbiParameters,

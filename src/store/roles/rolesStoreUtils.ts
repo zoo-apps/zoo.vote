@@ -1,4 +1,4 @@
-import { legacy } from '@luxdao/contracts';
+import { legacy } from '@decentdao/decent-contracts';
 import { HatsModulesClient } from '@hatsprotocol/modules-sdk';
 import { Hat, Tree } from '@hatsprotocol/sdk-v1-subgraph';
 import { Client } from 'urql';

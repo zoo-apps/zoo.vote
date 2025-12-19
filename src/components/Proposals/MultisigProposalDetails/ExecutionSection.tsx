@@ -1,5 +1,5 @@
 import { Box, Button, Text } from '@chakra-ui/react';
-import { legacy } from '@luxdao/contracts';
+import { legacy } from '@decentdao/decent-contracts';
 import { SafeMultisigTransactionResponse } from '@safe-global/safe-core-sdk-types';
 import { useState } from 'react';
 import { useTranslation } from 'react-i18next';

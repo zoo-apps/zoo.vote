@@ -1,4 +1,4 @@
-import { abis, legacy } from '@luxdao/contracts';
+import { abis, legacy } from '@decentdao/decent-contracts';
 import {
   checkAndEncodeArgs,
   HATS_MODULES_FACTORY_ABI,

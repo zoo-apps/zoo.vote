@@ -1,4 +1,4 @@
-import { abis } from '@luxdao/contracts';
+import { abis } from '@decentdao/decent-contracts';
 import {
   Address,
   encodeFunctionData,

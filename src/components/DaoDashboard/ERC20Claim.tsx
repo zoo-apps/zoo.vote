@@ -1,5 +1,5 @@
 import { Alert, AlertTitle, Button, Flex, Text } from '@chakra-ui/react';
-import { legacy } from '@luxdao/contracts';
+import { legacy } from '@decentdao/decent-contracts';
 import { useCallback, useEffect, useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import { getContract } from 'viem';
