@@ -64,7 +64,7 @@ import { formatUnits, parseUnits } from 'viem';
 import { format, formatDistanceToNow, addSeconds } from 'date-fns';
 
 // Import contract addresses from deployment file
-import deployments from '/Users/z/work/zoo/zoo/contracts/deployments/localhost-zk-governance.json';
+import deployments from '../../deployments/zk-governance.json';
 
 // Contract ABIs (simplified for demo)
 const zkStakingABI = [
