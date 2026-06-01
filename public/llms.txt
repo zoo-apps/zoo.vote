@@ -1,0 +1,29 @@
+# Zoo Vote
+
+> Governance and voting platform for Zoo Labs Foundation proposals and ZIPs.
+
+## About
+Zoo Vote is the governance and voting platform for Zoo Labs Foundation. It enables community members to propose, discuss, and vote on Zoo Improvement Proposals (ZIPs) that shape the direction of the foundation's research, funding, and operations. The platform implements transparent on-chain governance with token-weighted voting.
+
+## Key Features
+- ZIPs (Zoo Improvement Proposals) submission and voting
+- Token-weighted governance voting
+- Proposal lifecycle management (draft, review, vote, execute)
+- On-chain vote recording for transparency
+- Discussion forums for proposal debate
+- Delegation of voting power
+- Quorum and threshold management
+- Historical vote records and analytics
+- Multi-sig execution of approved proposals
+- Community treasury allocation votes
+
+## Links
+- [Website](https://zoo.vote)
+- [Zoo Labs Foundation](https://zoo.ngo)
+- [ZIPs](https://zips.zoo.ngo)
+- [Active Proposals](https://zoo.vote/proposals)
+- [GitHub](https://github.com/zoo-labs)
+
+## Contact
+- Governance: governance@zoo.ngo
+- Support: support@zoo.ngo
