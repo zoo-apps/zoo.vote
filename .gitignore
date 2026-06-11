@@ -36,3 +36,7 @@ yarn-error.log*
 # Wrangler
 /.wrangler
 .dev.vars
+.env
+.env.production
+.env.development
+.env.*.local
